@@ -12,3 +12,9 @@ Also, I will be changing the language I code in every week!
     > DFS | 
     > Time: O(n) |
     > Space: O(n) 
+    
+* Day 2: [Linked List Random Node](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3552/)
+
+    > Reservoir Sampling | 
+    > Time: O(n) |
+    > Space: O(1) 
