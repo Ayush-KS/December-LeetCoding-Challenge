@@ -18,3 +18,9 @@ Also, I will be changing the language I code in every week!
     > Reservoir Sampling | 
     > Time: O(n) |
     > Space: O(1) 
+        
+* Day 3: [Increasing Order Search Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3553/)
+
+    > Inorder Traversal | 
+    > Time: O(n) |
+    > Space: O(n) 
