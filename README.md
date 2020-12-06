@@ -30,3 +30,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n) |
     > Space: O(1) 
+            
+* Day 5: [Can Place Flowers](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3555/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(1) 
