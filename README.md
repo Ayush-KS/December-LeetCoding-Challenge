@@ -5,7 +5,7 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/de
 Also, I will be changing the language I code in every week!
 
 
-## Week 2: December 1st – December 7th [C++]
+## Week 1: December 1st – December 7th [C++]
 
 * Day 1: [Maximum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/)
 
@@ -42,3 +42,9 @@ Also, I will be changing the language I code in every week!
     > Level Order Traversal | 
     > Time: O(n) |
     > Space: O(n) 
+                
+* Day 7: [Spiral Matrix II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3556/)
+
+    > Implementation | 
+    > Time: O(n^2) |
+    > Space: O(n^2) 
