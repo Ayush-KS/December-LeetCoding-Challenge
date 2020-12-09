@@ -48,3 +48,11 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n^2) |
     > Space: O(n^2) 
+    
+## Week 2: December 8th – December 14th [Python]
+
+* Day 8: [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/)
+
+    > Hashing | 
+    > Time: O(n) |
+    > Space: O(1) 
