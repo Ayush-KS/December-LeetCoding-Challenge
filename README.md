@@ -56,3 +56,9 @@ Also, I will be changing the language I code in every week!
     > Hashing | 
     > Time: O(n) |
     > Space: O(1) 
+
+* Day 9: [Binary Search Iterator](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3560/)
+
+    > Inorder Traversal | 
+    > Time: O(1) [Each function call] |
+    > Space: O(h) [Height of tree]
