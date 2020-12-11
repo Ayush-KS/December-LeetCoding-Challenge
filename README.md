@@ -62,4 +62,9 @@ Also, I will be changing the language I code in every week!
     > Inorder Traversal | 
     > Time: O(1) [Each function call] |
     > Space: O(h) [Height of tree]
-    
+
+* Day 10: [Valid Mountain Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3561/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(1)
