@@ -68,3 +68,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 11: [Remove Duplicates from Sorted Array II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3562/)
+
+    > Two Pointers | 
+    > Time: O(n) |
+    > Space: O(1)
