@@ -74,3 +74,9 @@ Also, I will be changing the language I code in every week!
     > Two Pointers | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 12: [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3563/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n)
