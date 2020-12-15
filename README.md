@@ -86,3 +86,9 @@ Also, I will be changing the language I code in every week!
     > Dynamic Programming | 
     > Time: O(n^3) |
     > Space: O(n)
+
+* Day 14: [Palindrome Partitioning](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3565/)
+
+    > Backtracking | 
+    > Time: O(n*(2^n)) |
+    > Space: O(n)
