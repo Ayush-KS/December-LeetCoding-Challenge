@@ -102,3 +102,9 @@ Also, I will be changing the language I code in every week!
     > Two Pointers | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 16: [Validate Binary Search Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3568/)
+
+    > Inorder Traversal | 
+    > Time: O(n) |
+    > Space: O(n) 
