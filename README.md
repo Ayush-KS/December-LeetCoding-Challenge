@@ -126,3 +126,9 @@ Also, I will be changing the language I code in every week!
     > Dynamic Programming | 
     > Time: O(m*(n^2)) |
     > Space: O(m*(n^2)) 
+
+* Day 20: [Decoded String at Index](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3572/)
+
+    > Modular Arithmetic | 
+    > Time: O(n) |
+    > Space: O(1) 
