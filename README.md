@@ -95,7 +95,7 @@ Also, I will be changing the language I code in every week!
     > Space: O(n)
     
     
-## Week 4: December 15th – December 22nd [Java]
+## Week 4: December 15th – December 21st [Java]
 
 * Day 15: [Squares of a Sorted Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3567/)
 
@@ -138,3 +138,12 @@ Also, I will be changing the language I code in every week!
     > Greedy | 
     > Time: O(n) |
     > Space: O(1) 
+    
+    
+## Week 4: December 22nd – December 2th [C++]
+
+* Day 22: [Balanced Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3577/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n) 
