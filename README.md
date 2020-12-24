@@ -95,7 +95,7 @@ Also, I will be changing the language I code in every week!
     > Space: O(n)
     
     
-## Week 4: December 15th – December 21st [Java]
+## Week 3: December 15th – December 21st [Java]
 
 * Day 15: [Squares of a Sorted Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3567/)
 
@@ -147,3 +147,9 @@ Also, I will be changing the language I code in every week!
     > DFS | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 23: [Next Greater Element III](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3578/)
+
+    > Implementation | 
+    > Time: O(1) |
+    > Space: O(1) 
