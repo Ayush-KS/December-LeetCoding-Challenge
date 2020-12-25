@@ -153,3 +153,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(1) |
     > Space: O(1) 
+
+* Day 24: [Swap Nodes in Pairs](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3579/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(n) 
