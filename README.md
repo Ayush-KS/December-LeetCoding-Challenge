@@ -159,3 +159,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 25: [Diagonal Traverse](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3580/)
+
+    > Implementation | 
+    > Time: O(m*n) |
+    > Space: O(1) 
