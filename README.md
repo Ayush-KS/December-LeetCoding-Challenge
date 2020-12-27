@@ -165,3 +165,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(m*n) |
     > Space: O(1) 
+
+* Day 26: [Decode Ways](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3581/)
+
+    > Dynamic Programming | 
+    > Time: O(m*n) |
+    > Space: O(1) 
