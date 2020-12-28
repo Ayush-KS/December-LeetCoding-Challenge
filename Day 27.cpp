@@ -41,7 +41,6 @@ public:
             }
             cnt++;
         }
-        
         return cnt;
     }
 };
