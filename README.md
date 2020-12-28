@@ -171,3 +171,9 @@ Also, I will be changing the language I code in every week!
     > Dynamic Programming | 
     > Time: O(m*n) |
     > Space: O(1) 
+
+* Day 27: [Jump Game IV](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3582/)
+
+    > BFS | 
+    > Time: O(n) |
+    > Space: O(n) 
