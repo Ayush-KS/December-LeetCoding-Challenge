@@ -177,3 +177,9 @@ Also, I will be changing the language I code in every week!
     > BFS | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 28: [Reach a Number](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3583/)
+
+    > Greedy | 
+    > Time: O(sqrt(n)) |
+    > Space: O(1) 
