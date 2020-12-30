@@ -140,7 +140,7 @@ Also, I will be changing the language I code in every week!
     > Space: O(1) 
     
     
-## Week 4: December 22nd – December 2th [C++]
+## Week 4: December 22nd – December 28th [C++]
 
 * Day 22: [Balanced Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3577/)
 
@@ -183,3 +183,12 @@ Also, I will be changing the language I code in every week!
     > Greedy | 
     > Time: O(sqrt(n)) |
     > Space: O(1) 
+    
+    
+## Week 5: December 29th – December 31st [C++]
+
+* Day 29: [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3585/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n) 
