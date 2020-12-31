@@ -187,8 +187,14 @@ Also, I will be changing the language I code in every week!
     
 ## Week 5: December 29th – December 31st [C++]
 
-* Day 29: [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3585/)
+* Day 29: [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3585/)
 
     > DFS | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 30: [Game of Life](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3586/)
+
+    > Implementation | 
+    > Time: O(n*n) |
+    > Space: O(n*n) 
