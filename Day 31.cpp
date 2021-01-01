@@ -18,7 +18,6 @@ public:
                 i--;
             }
         }
-        
         return ans;
     }
 };
