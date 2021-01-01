@@ -198,3 +198,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n*n) |
     > Space: O(n*n) 
+
+* Day 31: [Largest Rectangle in Histogram](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3586/)
+
+    > Stack | 
+    > Time: O(n) |
+    > Space: O(n) 
